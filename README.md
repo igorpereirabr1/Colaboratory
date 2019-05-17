@@ -1,5 +1,5 @@
-# Colaboratory Notebooks with diverse implementations of Data Science and Machine Learning contents.
+# Colaboratory Notebooks
 
 
-## Pack of implementations of Data Science and Machine Learning algorithms and analysis.
+### Pack of implementations of Data Science and Machine Learning algorithms and analysis.
 
